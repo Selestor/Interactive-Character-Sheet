@@ -1,0 +1,135 @@
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+c:\users\roman gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\documents\visual studio 2013\Projects\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet v1.0\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v11\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.11\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.2\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.21\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2013\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.22\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman Gardziński\Documents\Visual Studio 2015\Projects\CharacterSheet_v1.23\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\Roman\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\bin\Debug\CharacterSheet.exe.config
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.exe
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.pdb
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\bin\Debug\CharacterSheet.exe
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\bin\Debug\CharacterSheet.pdb
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.csprojResolveAssemblyReference.cache
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.Form1.resources
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.FormInfo.resources
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.Properties.Resources.resources
+C:\Users\kt\Dropbox\Shared\CharacterSheet_v1.24\CharacterSheet\obj\Debug\CharacterSheet.csproj.GenerateResource.Cache

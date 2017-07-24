@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04E81D91-606A-49C2-B2B2-787EA0970B55}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CharacterSheet</RootNamespace>
+    <AssemblyName>CharacterSheet</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1431628105_Wooden_Sword.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="characterProperties.cs" />
+    <Compile Include="Classes\Barbarian.cs" />
+    <Compile Include="Classes\Bard.cs" />
+    <Compile Include="Classes\Classes.cs" />
+    <Compile Include="Classes\Cleric.cs" />
+    <Compile Include="Classes\Druid.cs" />
+    <Compile Include="Classes\Fighter.cs" />
+    <Compile Include="Classes\Monk.cs" />
+    <Compile Include="Classes\Paladin.cs" />
+    <Compile Include="Classes\Ranger.cs" />
+    <Compile Include="Classes\Sorcerer.cs" />
+    <Compile Include="Classes\Warlock.cs" />
+    <Compile Include="Classes\Wizard.cs" />
+    <Compile Include="EasterEgg.cs" />
+    <Compile Include="Forms\FormInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormInfo.Designer.cs">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.Calculations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Events\Form1.Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Events\Form1.Simple_Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.XMLSerialize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items\Armors.cs" />
+    <Compile Include="Items\FeatInfo.cs" />
+    <Compile Include="Races\Dragonborn.cs" />
+    <Compile Include="Races\Drow.cs" />
+    <Compile Include="Races\Dwarf.cs" />
+    <Compile Include="Races\Elf.cs" />
+    <Compile Include="Races\ForestGnome.cs" />
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Races\Gnome.cs" />
+    <Compile Include="Races\HalfElf.cs" />
+    <Compile Include="Races\Halfling.cs" />
+    <Compile Include="Races\HalfOrc.cs" />
+    <Compile Include="Races\HighElf.cs" />
+    <Compile Include="Races\HillDwarf.cs" />
+    <Compile Include="Races\Human.cs" />
+    <Compile Include="Races\LightfootHalfling.cs" />
+    <Compile Include="Races\Lizardfolk.cs" />
+    <Compile Include="Races\MountainDwarf.cs" />
+    <Compile Include="Races\RockGnome.cs" />
+    <Compile Include="Classes\Rogue.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Races\Race.cs" />
+    <Compile Include="Races\StoutHalfling.cs" />
+    <Compile Include="Races\Tiefling.cs" />
+    <Compile Include="Races\WoodElf.cs" />
+    <Compile Include="Items\RangedWeapon.cs" />
+    <Compile Include="Items\Weapon.cs" />
+    <Compile Include="TransparentTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TransparentTextBox.Designer.cs">
+      <DependentUpon>TransparentTextBox.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormInfo.resx">
+      <DependentUpon>FormInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\pppolka.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1431628105_Wooden_Sword.ico" />
+    <None Include="bin\Debug\Feats.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
